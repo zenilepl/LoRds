@@ -33,4 +33,4 @@ var prefix = "$";
        
 });
 
-client.login('NTE3MzU1MjA3MzQ5MzcwODgz.DuBAZA.9t85v14SOW7AxCOz5_NxYj7Ao98');
+client.login(process.env.BOT_TOKEN);
